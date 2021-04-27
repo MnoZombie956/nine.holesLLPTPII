@@ -5,7 +5,8 @@ Trabalho Pratico II do Laboratorio de Linguagens de Programação (2020.2) | Pro
 Eng. Comp. | CEFET_MG
 
 First Qt application in the laboratory of Programming Languages course, the goal was to create a graphical user interface. To spice things up, in order to make use of
-what the Qt toolkit had offer, we implemented a simple game for the user to interact with and added some textures(just images) for board a pieces.
+what the Qt toolkit had offer, we implemented a simple game for the user to interact with and added some textures(just images) for board a pieces. The game's rule(in portuguese),
+an option to a new game and "about the author" are available as a clickable button in the game's tabs.
 
 How to Play ?
 There are two phases, the first: each player places thier pieces on the board (alternatingly fashion), 
