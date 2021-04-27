@@ -14,9 +14,9 @@ then we move on to the second phase: each player on their turn, move its pieces 
 in order to complete a full line(three same pieces),
 be it either a horizontal, vertical or diagonal one.
 
-![the game running](https://your-copied-image-address)
+![the game running](https://github.com/MnoZombie956/nine.holesLLPTPII/blob/main/images/running_nine_holes.png)
 
-![congrats, red player won](https://your-copied-image-address)
+![congrats, red player won](https://github.com/MnoZombie956/nine.holesLLPTPII/blob/main/images/red_won.png)
 
 About the game: https://en.wikipedia.org/wiki/Nine_Holes
 
