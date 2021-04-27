@@ -1,12 +1,8 @@
 # nine.holesLLPTPII
 
-Trabalho Pratico II do Laboratorio de Linguagens de Programação (2020.2) 
+Trabalho Pratico II do Laboratorio de Linguagens de Programação (2020.2) | Prof. Andrei Rimsa
 
-Prof. Andrei Rimsa
-
-Eng. Comp.
-
-CEFET_MG
+Eng. Comp. | CEFET_MG
 
 First Qt application in the laboratory of Programming Languages course, the goal was to create a graphical user interface. To spice things up, in order to make use of
 what the Qt toolkit had offer, we implemented a simple game for the user to interact with and added some textures(just images) for board a pieces.
